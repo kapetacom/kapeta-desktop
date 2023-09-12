@@ -27,7 +27,7 @@ Implement the logic for saving and retrieving messages in the backend.
 * Send a sample value to the putMessage API
 * Verify that the value is saved to the database correctly.
 * Verify that the getMessage API retrieves the latest message from the database 
- Ensure the API returns the correct message.
+* Ensure the API returns the correct message.
 
 ## Step 3: Edit the Frontend Code
 ### Objective
@@ -46,7 +46,7 @@ When satisfied with the result or you just want to iterate, try running the plan
 ## Objective
 Deploy your developed plan to the Kapeta cloud for live testing.
 ## Instructions
-Start the plan locally to test it out
-Deploy the plan to the Kapeta cloud to test it out.
-Create a test environment that are using the current version of the plan
+1. Start the plan locally to test it out
+2. Create a test environment that are using the current version of the plan
+3. Deploy the plan to the Kapeta cloud to test it out.
 
