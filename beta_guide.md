@@ -2,7 +2,10 @@
 ## Objective
 To thoroughly test the end-to-end flow of Kapeta, encompassing frontend, backend, and database integration to ensure proper functionality and data exchange.
 ## Prerequisites
+
 Ensure that the Kapeta application is installed and accessible.
+
+Ensure that you have tried the `kap` CLI tool, it's being install when installing the Kapeta application.
 
 ## Step 1: Create a Minimal Application
 ### Objective
